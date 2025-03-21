@@ -1,5 +1,5 @@
 import React from 'react'
-import DeleteAllUsers from './DeleteAllUsers'
+import DeleteAllUsers from './DeleteAllUsers.jsx'
 import styled from 'styled-components';
 import {fakeUserData} from'../api/index.js'
 import {useDispatch} from 'react-redux'
